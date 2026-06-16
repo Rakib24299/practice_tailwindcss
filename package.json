@@ -14,5 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakib24299/practice_tailwindcss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rakib24299/practice_tailwindcss/issues"
+  },
+  "homepage": "https://github.com/Rakib24299/practice_tailwindcss#readme"
 }
